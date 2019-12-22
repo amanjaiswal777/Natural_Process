@@ -14,4 +14,10 @@ Named-entity recognition (NER) (also known as entity identification, entity chun
 
 https://github.com/DataTurks-Engg/Entity-Recognition-In-Resumes-SpaCy
 
+NAMED ENTITY RECOGNITION architecture could be found in this page:-
+
+https://arxiv.org/pdf/1603.01360.pdf
+
+
+
 
