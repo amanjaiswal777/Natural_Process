@@ -18,6 +18,11 @@ NAMED ENTITY RECOGNITION architecture could be found in this page:-
 
 https://arxiv.org/pdf/1603.01360.pdf
 
+https://thetalkingmachines.com/sites/default/files/2018-12/unified_nlp.pdf
 
+
+
+Important:-   
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.310.2634&rep=rep1&type=pdf#page=527
 
 
