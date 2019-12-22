@@ -1,4 +1,30 @@
 TEXT MINING/ TEXT ANALYSIS is the process of deriving meaningful information from natural langauge text.
 
- As, Text Mining refers to the process of deriving high quality information from the text.
- The overall goal is, essentially to turn text into data for analysis, via application of NLP.
+As, Text Mining refers to the process of deriving high quality information from the text.
+The overall goal is, essentially to turn text into data for analysis, via application of NLP.
+
+NLP is a part of computer science and artificial intelligence that deals with human languages.
+
+Application of NLP:-
+
+     1. Sentimental Analysis
+     2. Speech Recognition
+     3. Chatbot
+     4. Machine Translation.
+     5. Spell Checking
+     6. Keyword search
+     7. Information Retrival
+     8. Advertisement Matching
+     
+Components of NLP:-
+   1. Natural Language UnderstandingText Realization
+             * Mapping input to useful representation
+             * Analysing different aspects of the language
+   2. Natural Language Generation
+             * Text Planning
+             * Sentence Planning
+             * Text Realization
+             
+   
+   
+     
