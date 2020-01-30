@@ -1,0 +1,124 @@
+Contact
+
+www.linkedin.com/in/ssamitkmr
+(LinkedIn)
+
+Top Skills
+Algorithms
+Java
+Python
+
+Languages
+English (Professional Working)
+Hindi (Native or Bilingual)
+
+Honors-Awards
+Certificate of Merit
+
+ 
+
+ 
+
+ 
+
+Amit Kumar
+
+Actively Looking for Opportunites| Ex-Shuttl | Ex- Times Internet | IIT
+Kanpur
+Gurgaon, India
+
+Summary
+Software Developer with experience of building scalable tech
+products and solutions. Skilled in Python, Nodejs and Java. Strong
+engineering professional with a Bachelor’s Degree from IIT Kanpur. 
+
+Experience
+
+Udyami Media Labs
+Co-Founder
+July 2019 - Present 
+Noida Area, India
+
+Shuttl
+Software Engineer
+September 2018 - June 2019 (10 months)
+Gurgaon, India
+Worked in system-rewrite and software revamp of Shuttl from monolith
+architecture to microservice architecture.
+
+-  Developer Payments microservice with third-party integration such as Paytm,
+Mobikwik, Razorpay, etc. (Flask, Postgres, RabbitMQ, Docker)
+-  Developed GTFS microservice responsible for periodic data feed to Google
+Maps for Shuttl bus routes and time tables. (Flask, Postgres, Docker)
+- Developed Slackbot to deploy and migrate microservices on Staging and
+Production Environment
+(Ruby, Nomad, Docker, Slack API)
+
+Times Internet
+2 years 2 months
+Full Stack Developer (BrainBaazi)
+December 2017 - August 2018 (9 months)
+Noida Area, India
+
+Page 1 of 3
+
+ 
+
+ 
+
+ 
+
+• Developed REST API for user registration, login, dashboard and leaderboard
+in Nodejs for brainbaazi app using MongoDB as database
+• Developed a Quiz control dashboard prototype in Python which later
+upgraded to actual Quiz control dashboard
+Developed Brainbaazi iOS App
+• Developed Brainbaazi iOS from scratch with features User Registration,
+Login, Profile management, Multilingual, Support and real time communication
+for live game shows
+• Responsible for REST API Integration, realtime socket communication with
+server and managing user state for the live games
+
+Software Engineer
+July 2016 - November 2017 (1 year 5 months)
+Gurgaon, India
+Working on iOS SDK Libraries for various applications of Times Internet
+1. • Developed a SDK integration Platfarm ’TILSDK’ from scratch to bundle
+different SDKs, Currently being used by major apps like Gaana, TOI, ET etc.
+2. Work Involved developing architecture, using suitable design patterns,
+following standard practices of SDK development and coordinating with
+different teams for easy integration of SDKs
+
+SoftTech Engineers Pvt. Ltd.
+Software Developer Internship
+May 2015 - July 2015 (3 months)
+Pune
+Worked on testing automation for company's products
+1. Explored various testing automation tools
+2. Wrote automation testing scripts for Microsoft UI Automation to test Opticon
+(One of company's product)
+
+Worked on visualisation analytical data in to charts, graph which further used
+to build a tool for business intelligence. 
+
+Education
+Indian Institute of Technology, Kanpur
+Bachelor of Technology (B.Tech.), Computer Science · (2012 - 2016)
+
+Page 2 of 3
+
+ 
+
+ 
+
+ 
+
+Jawahar Navodaya Vidyalaya Bangalore Urban
+11th and 12th, Science · (2010 - 2012)
+
+Jawahar Navodaya Vidyalaya Amroha
+High School, Science · (2005 - 2010)
+
+Page 3 of 3
+
+
