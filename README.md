@@ -26,3 +26,4 @@ Important:-
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.310.2634&rep=rep1&type=pdf#page=527
 
 
+https://github.com/jineshdhruv8/ResumeParser/tree/master/Code/ResumeParser
